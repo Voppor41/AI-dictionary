@@ -1,0 +1,5 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
+psycopg2-binary  # если будет использоваться PostgreSQL
